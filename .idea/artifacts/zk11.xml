@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="zk11">
+    <output-path>$PROJECT_DIR$/out/artifacts/zk11</output-path>
+    <root id="archive" name="zk11.jar">
+      <element id="module-test-output" name="zk" />
+    </root>
+  </artifact>
+</component>
